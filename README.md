@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
