@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
