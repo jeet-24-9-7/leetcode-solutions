@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Newton's Method
 |  |
 | ------- |
