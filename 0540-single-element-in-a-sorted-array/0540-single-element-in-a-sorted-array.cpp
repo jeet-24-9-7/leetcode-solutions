@@ -17,16 +17,16 @@ public:
             if (nums[mid - 1] != nums[mid] && nums[mid] != nums[mid + 1])
                 return nums[mid];
 
-            if (mid % 2 == 0) {
-                if (nums[mid - 1] == nums[mid]) {
+            if (mid % 2 == 0) {                   // even
+                if (nums[mid - 1] == nums[mid]) { // left
                     end = mid - 1;
-                } else {
+                } else { // right
                     start = mid + 1;
                 }
-            } else {
-                if (nums[mid - 1] == nums[mid]) {
+            } else {                              // odd
+                if (nums[mid - 1] == nums[mid]) { // right
                     start = mid + 1;
-                } else {
+                } else { // left
                     end = mid - 1;
                 }
             }
