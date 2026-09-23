@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Newton's Method
 |  |
 | ------- |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
