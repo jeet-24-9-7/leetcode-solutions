@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Interactive
