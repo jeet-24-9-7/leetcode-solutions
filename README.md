@@ -142,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
