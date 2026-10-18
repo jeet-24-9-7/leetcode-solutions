@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
