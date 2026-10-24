@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Euclidean Algorithm
 |  |
 | ------- |
