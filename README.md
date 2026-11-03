@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
 |  |
 | ------- |
