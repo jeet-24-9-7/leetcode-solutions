@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
