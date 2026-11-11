@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeet-24-9-7/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
